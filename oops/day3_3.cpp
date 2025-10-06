@@ -27,7 +27,7 @@ public:
         cout << "~~~~~~Person Information~~~~~~\n";
         cout << "Name = " << name << endl;
         cout << "Gender = " << gender << endl;
-        cout << "Age = " << age << endl;
+        cout << "Age = " << age << endl; 
     }
 };
 
